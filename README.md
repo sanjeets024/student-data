@@ -26,9 +26,9 @@ Percentage should be a number.
 
 Invalid data is saved separately.
 # Saving Data
-Valid student data is saved to a file named studentinputdata35.csv.  
+Valid student data is saved to a file named studentinputdata36.csv.  
 Invalid data is saved to the same file. 
-Processed valid data is saved to studentoutputdata35.csv.  
+Processed valid data is saved to studentoutputdata36.csv.  
 # Grades
 The program assigns grades based on percentage:  
 Less than 35%: 'F'  
